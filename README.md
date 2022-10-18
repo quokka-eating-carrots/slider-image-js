@@ -1,6 +1,7 @@
 # slider-image-js
 
-[참고 강의](https://youtu.be/7ZO2RTMNSAY)
+[참고 강의](https://youtu.be/7ZO2RTMNSAY)<br>
+[완성 페이지](https://dainty-starlight-9eadc3.netlify.app)
 
 ---
 ## html 작성하기
